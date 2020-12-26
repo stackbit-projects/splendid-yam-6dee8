@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Romantically Free For Personal';
+    src: url('Romantically.otf');
+}
+
+.titlehead{
+font-family:Romantically Free For Personal;
+}

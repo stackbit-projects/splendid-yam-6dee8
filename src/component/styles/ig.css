@@ -1,0 +1,21 @@
+.this {
+    border-radius: 0px 50px 50px 50px; 
+    min-height: 300px; 
+}
+
+
+
+
+@media (min-width: 1024px) {
+    
+.blob{
+    z-index: -1;
+    left:630px;
+    height:900px;
+    overflow: hidden;
+}
+}
+
+.blob{
+    z-index:-1;
+}

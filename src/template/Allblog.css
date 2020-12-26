@@ -1,0 +1,49 @@
+.title{
+    font-size: 100px;
+}
+@media (max-width:629px) {
+    .title{
+     font-size: 50px;
+    
+    }
+    }
+.This img{
+    max-height: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.This strong {
+   
+    font: initial;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    line-height: 1.7rem;
+    font-size: inherit;
+    font-weight: bold;
+}
+.This h2 {
+    font: initial;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: 2rem;
+
+}
+.This h3 {
+    font: initial;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: 1.5rem;
+
+}
+.This h1 {
+    font: initial;
+    font-family: Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    font-size: 5rem;
+    font-weight: bold;
+
+}
+@media (max-width:629px) {
+    .This h1{
+     font-size:3rem;
+    
+    }
+    }
